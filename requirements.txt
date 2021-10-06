@@ -6,3 +6,4 @@ string
 itertools
 copy
 re
+ipykernel
