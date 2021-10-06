@@ -2,7 +2,6 @@ voila
 voila-material
 numpy
 pandas
-string
 itertools
 copy
 re
