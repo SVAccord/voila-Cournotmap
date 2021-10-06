@@ -2,7 +2,4 @@ voila
 voila-material
 numpy
 pandas
-itertools
-copy
-re
 ipykernel
