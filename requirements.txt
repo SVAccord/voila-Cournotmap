@@ -3,3 +3,4 @@ voila-material
 numpy
 pandas
 ipykernel
+io
