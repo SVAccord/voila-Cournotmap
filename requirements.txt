@@ -1,12 +1,4 @@
-channels:
-  - conda-forge
-dependencies:
-  - appmode
-  - ipykernel
-  - pip
-  - voila
-  - pip:
-    - numpy
-    - pandas
-    - ipywidgets
-    - io
+voila
+numpy
+pandas
+ipykernel
