@@ -1,5 +1,13 @@
-voila
-numpy
-pandas
-ipykernel
-io
+name: appmode-courno
+channels:
+  - conda-forge
+dependencies:
+  - appmode
+  - ipykernel
+  - pip
+  - voila
+  - pip:
+    - numpy
+    - pandas
+    - ipywidgets
+    - io
