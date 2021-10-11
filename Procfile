@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --debug --enable_nbextensions=True cournotmap.ipynb
+web: voila --port=$PORT --no-browser --template=material --debug --show_tracebacks=True --enable_nbextensions=True cournotmap.ipynb
